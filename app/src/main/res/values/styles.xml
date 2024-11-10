@@ -1,0 +1,10 @@
+<!-- res/values/styles.xml -->
+<resources>
+
+    <!-- Tema da aplicação -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:background">@color/greenBackground</item> <!-- Fundo verde para toda a aplicação -->
+        <item name="android:textColorPrimary">@color/whiteText</item> <!-- Texto branco -->
+    </style>
+
+</resources>

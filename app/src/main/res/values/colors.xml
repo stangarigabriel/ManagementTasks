@@ -1,0 +1,10 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="greenBackground">#4CAF50</color> <!-- Cor verde -->
+    <color name="whiteText">#FFFFFF</color>
+    <color name="green">#4CAF50</color> <!-- Verde -->
+    <color name="white">#FFFFFF</color> <!-- Branco -->
+    <color name="black">#000000</color>
+    <color name="red">#FF0000</color>
+    <!-- Cor branca -->
+</resources>
